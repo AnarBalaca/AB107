@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AB107HomeClassTask/1.0.0": {
+        "runtime": {
+          "AB107HomeClassTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AB107HomeClassTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/bin/Debug/net8.0/AB107HomeClassTask
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/bin/Debug/net8.0/AB107HomeClassTask.deps.json
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/bin/Debug/net8.0/AB107HomeClassTask.runtimeconfig.json
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/bin/Debug/net8.0/AB107HomeClassTask.dll
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/bin/Debug/net8.0/AB107HomeClassTask.pdb
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.AssemblyInfoInputs.cache
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.AssemblyInfo.cs
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.csproj.CoreCompileInputs.cache
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.dll
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/refint/AB107HomeClassTask.dll
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.pdb
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/AB107HomeClassTask.genruntimeconfig.cache
+/Users/anarbalacayev/Projects/AB107HomeClassTask/AB107HomeClassTask/obj/Debug/net8.0/ref/AB107HomeClassTask.dll
